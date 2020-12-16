@@ -1,1 +1,1 @@
-# Iris_prediction_webpage
+# YT-DjangoProject-Iris-App

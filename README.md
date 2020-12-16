@@ -1,8 +1,8 @@
 # YT-DjangoProject-Iris-App
-cd Iris_prediction_webpage
-pipenv install
-pipenv shell
-pip install -r requirements.txt
-pip install django
-pip install pandas
-pip install sklearn
+<li>cd Iris_prediction_webpage<br>
+pipenv install<br>
+pipenv shell<br>
+pip install -r requirements.txt<br>
+pip install django<br>
+pip install pandas<br>
+pip install sklearn<br></li>

@@ -15,7 +15,7 @@
 <li>git clone <http> <br>
 <li>git add . <br>
 <li>git commit -m "Write the commit message"<br>
-<li>git push origin <a><branch name><br>
+<li>git push origin branch_name<br>
 Always push this in a branch except the main branch 
-<li>git pull origin <branch name> <br>
+<li>git pull origin branch_name <br>
 

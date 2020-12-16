@@ -6,7 +6,7 @@
 <li>pip install django<br>
 <li>pip install pandas<br>
 <li>pip install sklearn<br>
-<li>python manage.py make migrations<br>
+<li>python manage.py makemigrations<br>
 <li>python manage.py migrate<br>
 <li>python manage.py createsuperuser<br>
 <li>python manage.py runserver<br>

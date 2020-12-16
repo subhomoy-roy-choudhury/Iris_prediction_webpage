@@ -1,6 +1,6 @@
 # YT-DjangoProject-Iris-App
 <li>cd Iris_prediction_webpage<br>
-pipenv install<br>
+<li>pipenv install<br>
 pipenv shell<br>
 pip install -r requirements.txt<br>
 pip install django<br>

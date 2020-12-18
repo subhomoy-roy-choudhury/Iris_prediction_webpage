@@ -1,4 +1,4 @@
-# YT-DjangoProject-Iris-App
+# Iris_prediction_webpage
 <li>cd Iris_prediction_webpage<br>
 <li>pipenv install<br>
 <li>pipenv shell<br>
